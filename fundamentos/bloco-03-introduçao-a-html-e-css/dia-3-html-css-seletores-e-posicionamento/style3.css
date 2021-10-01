@@ -1,0 +1,18 @@
+p, h1 {
+  text-align: center;
+}
+p:hover{
+  color: blueviolet;
+}
+li:hover {
+  background-color: burlywood;
+  transition: 2s;
+  width: 350px;
+}
+li:active, a:active {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: cadetblue;
+}
+li{
+  list-style: none;
+}
