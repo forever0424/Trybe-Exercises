@@ -1,0 +1,56 @@
+ol {
+  background-color: yellow;
+}
+ol li:nth-child(even) {
+  color: green;
+}
+ol li:nth-child(odd) {
+  text-transform: capitalize;
+}
+h1, h3 {
+  color: red;
+}
+h1, h3 i {
+  font-size: 40px;
+  border: 1px solid black;
+}
+li {
+  font-size: 20px;
+}
+li i {
+  font-weight: bold;
+}
+.programaçao {
+  color: blue;
+}
+.programaçao.java {
+  background-color: pink;
+}
+a:link, a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+  text-decoration: underline;
+  font-size: 115%;
+}
+.lista-aliados .Stack:hover {
+  font-weight: bold;
+  color: orange;
+}
+.lista-aliados .W3S:hover {
+  font-weight: bold;
+  color: green;
+}
+.lista-aliados .MDN:hover {
+  font-weight: bold;
+  color: black;
+}
+.lista-aliados .Dev:hover {
+  font-weight: bold;
+  color: yellow;
+}
+.lista-aliados .Trybe:hover {
+  font-weight: bold;
+  color: green;
+}
