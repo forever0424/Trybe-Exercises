@@ -1,0 +1,29 @@
+div:hover {
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+}
+div:first-of-type {
+  color: aqua;
+  font-family: 'Courier New', Courier, monospace;
+}
+div:nth-of-type(2) {
+  color: blue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div:nth-of-type(3) {
+  color: blueviolet;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: larger;
+}
+div:nth-of-type(4) {
+  color: brown;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div:last-of-type {
+  color: chocolate;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div:nth-of-type(odd) {
+  font-style: italic;
+}
