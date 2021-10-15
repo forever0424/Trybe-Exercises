@@ -1,6 +1,4 @@
 let n = 5;
-let colunas = "";
-let espacos = "";
 let impar = 0;
 
 for (let s = 1; s <= n; s += 2) {
@@ -10,6 +8,8 @@ for (let s = 1; s <= n; s += 2) {
 }
 
 for (let i = 1; i <= n; i += 2) {
+  let colunas = "";
+  let espacos = "";
   impar--
   for (let k = impar; k >= 1; k--) {
     espacos += " ";
@@ -18,6 +18,4 @@ for (let i = 1; i <= n; i += 2) {
     colunas += "*";
   }
   console.log(espacos + colunas);
-  colunas = "";
-  espacos = "";
 }

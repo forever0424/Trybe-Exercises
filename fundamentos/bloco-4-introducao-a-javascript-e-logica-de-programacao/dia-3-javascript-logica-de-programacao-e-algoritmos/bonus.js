@@ -1,9 +1,5 @@
 let n = 7;
-let colunas = "";
-let espacos = "";
 let impar = 0;
-let espacos2 = "";
-let colunas2 = "";
 
 for (let s = 1; s <= n; s += 2) {
   if (s % 2 !== 0) {
@@ -12,6 +8,10 @@ for (let s = 1; s <= n; s += 2) {
 }
 
 for (let i = 1; i <= n; i += 2) {
+  let colunas = "";
+  let espacos = "";
+  let espacos2 = "";
+  let colunas2 = "";
   impar--;
   for (let k = impar; k >= 1; k--) {
     espacos += " ";
@@ -28,8 +28,4 @@ for (let i = 1; i <= n; i += 2) {
     }
   }
   console.log(espacos + colunas + espacos2 + colunas2);
-  colunas = "";
-  espacos = "";
-  colunas2 = "";
-  espacos2 = "";
 }
