@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forms</title>
+  </head>
+  <body>
+    <form id="form" action="" method="get" enctype="multipart/form-data">
+      <fieldset>
+        <label for="name">Nome:</label>
+        <input type="text" maxlength="40" id="name" name="name" class="data" required />
+        <label for="email">Email:</label>
+        <input type="email" maxlength="50" id="email" name="email" class="data" required />
+        <label for="cpf">CPF:</label>
+        <input type="text" maxlength="11" id="cpf" name="cpf" class="data"  required />
+        <label for="address">Endereço:</label>
+        <input
+          type="text"
+          maxlength="200"
+          id="address"
+          name="address"
+          required
+        />
+        <label for="city">Cidade:</label>
+        <input type="text" maxlength="28" id="city" name="city" class="data"  required />
+        <select name="state" id="state"></select>
+        <label for="house">Residência:</label>
+        <label for="house"
+          >Casa<input type="radio" id="house" name="residencia" class="data" 
+        /></label>
+        <label for="apartment"
+          >Apartamento<input type="radio" id="apartment" name="residencia" class="data" 
+        /></label>
+      </fieldset>
+      <fieldset>
+        <label for="curriculum">Resumo do currículo:</label>
+        <textarea
+          name="curriculum"
+          id="curriculum"
+          cols="20"
+          rows="7"
+          maxlength="1000"
+          class="data" 
+        ></textarea>
+        <label for="position">Cargo:</label>
+        <input
+          type="text"
+          name="position"
+          id="position"
+          maxlength="40"
+          required
+          class="data" 
+        />
+        <label for="description">Descrição do cargo:</label>
+        <input
+          type="text"
+          name="description"
+          id="description"
+          maxlength="500"
+          required
+          class="data" 
+        />
+        <label for="date">Data de início:</label>
+        <input type="date" name="date" id="date" required  class="data" />
+        <button type="submit" id="btn">Enviar formulário</button>
+        <input type="reset" name="reset" id="reset" />
+      </fieldset>
+    </form>
+    <div id="dataCollected"></div>
+    <script src="script.js"></script>
+  </body>
+</html>
