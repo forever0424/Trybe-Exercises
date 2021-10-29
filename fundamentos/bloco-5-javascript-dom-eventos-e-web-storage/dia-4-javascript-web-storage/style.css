@@ -1,0 +1,12 @@
+body {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#backColor, #txtColor {
+  width: 35px;
+  border: none;
+  padding: 0;
+}
