@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="/node_modules/dist/css/DatePickerX.min.css">
+  <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <title>Forms</title>
+</head>
+
+<body>
+  <form id="form" action="#" method="get" enctype="multipart/form-data" class="container">
+    <section class="container mb-3">
+      <label for="name" class="form-label">Nome:</label>
+      <input type="text" maxlength="40" id="name" name="name" class="form-control" required />
+    </section>
+    <section class="container mb-3">
+      <label for="email" class="form-label">Email:</label>
+      <input type="email" maxlength="50" id="email" name="email" class="form-control" required />
+    </section>
+    <section class="container mb-3">
+      <label for="cpf" class="form-label">CPF:</label>
+      <input type="text" maxlength="11" id="cpf" name="cpf" class="form-control" required />
+    </section>
+    <section class="container mb-3">
+      <label for="address" class="form-label">Endereço:</label>
+      <input type="text" maxlength="200" id="address" name="address" class="form-control" required />
+    </section>
+    <section class="container mb-3">
+      <label for="city" class="form-label">Cidade:</label>
+      <input type="text" maxlength="28" id="city" name="city" class="form-control" required />
+    </section>
+    <section class="container form-floating">
+      <select name="state" id="state" class="form-select"></select>
+      <label for="state" class="ps-3">Estado</label>
+    </section>
+    <section class="container mb-3 mt-3">
+      <label for="house" class="form-label">Residência:</label>
+      <label for="house" class="form-check-label">Casa</label>
+      <input type="radio" id="house" name="residencia" class="form-check-input" />
+      <label for="apartment" class="form-check-label">Apartamento</label>
+      <input type="radio" id="apartment" name="residencia" class="form-check-input" />
+    </section>
+    <section class="container mb-3">
+      <label for="curriculum" class="form-label">Resumo do currículo:</label>
+      <textarea name="curriculum" id="curriculum" cols="20" rows="7" maxlength="1000" class="form-control"
+        placeholder="Placeholder"></textarea>
+    </section>
+    <section class="container mb-3">
+      <label for="position" class="form-label">Cargo:</label>
+      <input type="text" name="position" id="position" maxlength="40" required class="form-control" />
+    </section>
+    <section class="container mb-3">
+      <label for="description" class="form-label">Descrição do cargo:</label>
+      <input type="text" name="description" id="description" maxlength="500" required class="form-control" />
+    </section>
+    <section class="container mb-3">
+      <label class="real" for="date">Data de início:
+        <input type="text" name="date" id="date" required/>
+      </label>
+    </section>
+    <section class="container mb-3">
+      <button type="submit" id="btn" class="btn btn-primary">Enviar formulário</button>
+      <input type="reset" name="reset" id="reset" class="btn btn-secondary btn-sm ms-4"/>
+    </section>
+    </section>
+  </form>
+  <script src="/node_modules/dist/js/DatePickerX.min.js"></script>
+  <script src="script.js"></script>
+  <script src="/node_modules/just-validate/dist/js/just-validate.min.js"></script>
+  <script>
+    new window.JustValidate('#form')
+  </script>
+</body>
+</html>
