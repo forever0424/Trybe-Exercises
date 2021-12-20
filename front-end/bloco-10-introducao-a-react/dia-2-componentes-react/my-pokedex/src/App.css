@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  font-size: 40px;
+  font-weight: 700;
+  margin: 20px 0;
+}
+
+.container {
+  display: flex;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+}
+
+.pokemons {
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 10%;
+}
+
+.info {
+  margin: 10px;
+}
