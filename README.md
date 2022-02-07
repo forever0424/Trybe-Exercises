@@ -42,7 +42,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
 - [x] 5-5: _[Projeto - Meme Generator]()_
-- [x] 5-6: _[Projeto - Pixels Art](https://rafaelcunhas.github.io/project-pixels-art/){target="_blank"}_
+- [x] 5-6: _[Projeto - Pixels Art](https://rafaelcunhas.github.io/project-pixels-art/){:target="_blank"}_
 - [x] 5-7: _[Projeto - To do List]()_
 - [x] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [x] 5-7: _[Projeto - Carta Misteriosa]()_
