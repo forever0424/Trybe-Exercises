@@ -225,7 +225,7 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 
 - [ ] 31-1: _[Project - Delivery App]()_
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Computer Science :hourglass_flowing_sand:
 
 ## Bonus
 
