@@ -174,81 +174,58 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 - [ ] 23-3: _Software Architecture - Testing the layers_
 - [ ] 23-4: _[Project - Store Manager]()_
 
-##### Block 24: Aggregation Framework
+##### Block 24: NodeJS - ORM & Authentication
 
-- [ ] 24-1: _Aggregation Framework - Part 1_
-- [ ] 24-2: _Aggregation Framework - Part 2_
-- [ ] 24-3: _[Project - Aggregations]()_
+- [ ] 24-1: _ORM - Application interface with database_
+- [ ] 24-2: _ORM - Associations_
+- [ ] 24-3: _JWT - (JSON Web Token)_
+- [ ] 24-4: _Testing APIs with integration tests_
+- [ ] 24-5: _[Project - Blogs API]()_
 
-##### Block 25: Intro - NodeJS
+##### Block 25: Deployment
 
-- [ ] 25-1: _NodeJS - Introdução_
-- [ ] 25-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 25-3: _NodeJS - Arquitetura_
-- [ ] 25-4: _[Project - A CLI of Ice and Fire]()_
+- [ ] 25-1: _Infrastructure - Deploy with Heroku_
+- [ ] 25-2: _Deploy Docker & Heroku_
+- [ ] 25-3: _[Project - Stranger Things]()_
 
-##### Block 26: NodeJS
+##### Block 26: TypeScript
 
-- [ ] 26-1: _Express: HTTP com Node.js_
-- [ ] 26-2: _Arquitetura de Software - Introdução ao MVC_
-- [ ] 26-3: _[Project - Cookmaster]()_
+- [ ] 26-1: _Introduction to TypeScript_
+- [ ] 26-2: _Static Typing & Generics_
+- [ ] 26-3: _Express with TypeScript_
+- [ ] 26-4: _[Project - Trybe Smith]()_
 
-##### Block 27: NodeJS
+##### Block 27: Object-Oriented Programming (OOP) & SOLID
 
-- [ ] 27-1: _Arquitetura de Software - Camada de Serviço_
-- [ ] 27-2: _Arquitetura web - Rest e Restful_
-- [ ] 27-3: _[Project - Store Manager]()_
+- [ ] 27-1: _Introduction to OOP_
+- [ ] 27-2: _Inheritance and Interface_
+- [ ] 27-3: _Polimorfism_
+- [ ] 27-4: _SOLID - Introduction and principles S, O and D_
+- [ ] 27-5: _SOLID - Principles L and I_
+- [ ] 27-6: _[Project - Trybers and Dragons]()_
 
-##### Block 28: NodeJS
+##### Block 28: Project TFC
 
-- [ ] 28-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 28-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 28-3: _[Project - Cookmaster V2]()_
+- [ ] 28-1: _[Project - TFC (Trybe Football Club)]()_
 
-##### Block 29: Introdução - Deploy
+##### Block 29: MongoDB
 
-- [ ] 29-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 29-2: _Deploy - Gerenciadores de Processos_
-- [ ] 29-3: _[Project - Stranger Things]()_
+- [ ] 29-1: _MongoDB - Introduction_
+- [ ] 29-2: _Filter Operators_
+- [ ] 29-3: _Consult Operators_
+- [ ] 29-4: _Simple Updates_
+- [ ] 29-5: _Complex Updates - Arrays_
+- [ ] 29-6: _[Project - Commerce]()_
 
-##### Block 30: Projeto
+##### Block 30: Master Class - VPS, CI/CD
 
 - [ ] 30-1: _[Project - Trybeer]()_
 
-##### Block 31: Arquitetura de Software
+##### Block 31: Back-end Final Project
 
-- [ ] 31-1: _Arquitetura - Princípios SOLID_
-- [ ] 31-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 31-3: _Arquitetura de Software - DDD_
-- [ ] 31-4: _Boas práticas na escrita de testes_
-- [ ] 31-3: _[Project - API de Blogs]()_
-
-##### Block 32: Sockets
-
-- [ ] 32-1: _Sockets - TCP/UDP & NET_
-- [ ] 32-2: _Sockets - Socket.io_
-- [ ] 32-3: _[Project - Webchat]()_
-
-##### Block 33: Projeto
-
-- [ ] 33-1: _[Project - Trybeer V2]()_
+- [ ] 31-1: _[Project - Delivery App]()_
 
 ## Ciência da Computação :hourglass_flowing_sand:
-
-##### Block 34: Introdução - Ciência da Computação
-
-- [ ] 34-1: _Arquitetura de Computadores_
-- [ ] 34-2: _Arquitetura de redes_
-- [ ] 34-3: _Redes de computadores, ferramentas e segurança_
-- [ ] 34-4: _[Project - Explorando os protocolos]()_
-
-##### Block 35: Python
-
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e Exceções_
-- [ ] 35-3: _Entrada e Saída de dados_
-- [ ] 35-4: _Entrada e Saída de dados_
-- [ ] 35-5: _[Project - Tech news]()_
 
 ## Bonus
 
