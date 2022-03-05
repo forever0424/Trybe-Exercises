@@ -151,23 +151,28 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 
 ##### Block 21: Functions SQL, JOINs and Normalization
 
-- [ ] 21-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 21-2: _Normalização, Formas Normais e Dumps_
-- [ ] 21-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 21-3: _[Project - Vocabulary Booster]()_
+- [ ] 21-1: _Most used functions on SQL_
+- [ ] 21-2: _Uncomplicating JOINs_
+- [ ] 21-2: _Transforming ideas into a database model_
+- [ ] 21-3: _[Project - One for All]()_
 
-##### Block 22: Introdução - NoSQL
+##### Block 25: Introduction to Web Development with NodeJS
 
-- [ ] 22-1: _MongoDB - Introdução_
-- [ ] 22-2: _Filter Operators_
-- [ ] 22-3: _[Project - Data Flights]()_
+- [ ] 25-1: _Intro - NodeJS_
+- [ ] 25-2: _NodeJS - Asynchronous Flux_
+- [ ] 25-3: _Mocha, Chai, Sinon - Back-end Tests with NodeJS_
+- [ ] 25-4: _Express - HTTP with NodeJS_
+- [ ] 25-5: _Express - Middlewares_
+- [ ] 25-6: _[Project - Talker Manager]()_
 
-##### Block 23: Updates
+##### Block 23: Service Layer & Rest and Restful Architectures
 
-- [ ] 23-1: _Updates Simples_
-- [ ] 23-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 23-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 23-4: _[Project - Commerce]()_
+- [ ] 23-1: _Intro - Software Architecture_
+- [ ] 23-2: _Software Architecture - Model layer_
+- [ ] 23-3: _Software Architecture - Controller and Service layer_
+- [ ] 23-4: _Web Architecture - Rest & Restful_
+- [ ] 23-3: _Software Architecture - Testing the layers_
+- [ ] 23-4: _[Project - Store Manager]()_
 
 ##### Block 24: Aggregation Framework
 
