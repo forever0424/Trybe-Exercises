@@ -31,7 +31,7 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 - [x] 4-2: _JavaScript - Array and loop For_
 - [x] 4-3: _JavaScript - Programming logic and algorithms_
 - [x] 4-4: _JavaScript - Objects and funcitons_
-- [x] 4-5: _[Project - Playground Functions]()_
+- [x] 4-5: _[Project - Playground Functions](https://github.com/RafaelCunhaS/RafaelCunhaS.github.io/tree/master/project-playground-functions)_
 
 ##### Block 5: Introduction - JavaScript - Projects
 
@@ -43,7 +43,7 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 - [x] 5-6: _[Project - Pixels Art](https://rafaelcunhas.github.io/project-pixels-art/)_
 - [x] 5-7: _[Project - To do List]()_
 - [x] 5-7: _[Project - Color Guess]()_
-- [x] 5-7: _[Project - Mysterious letter]()_
+- [x] 5-7: _[Project - Mysterious letter](https://rafaelcunhas.github.io/project-mistery-letter/)_
 
 ##### Block 6: HTML & CSS Advanced
 
@@ -52,14 +52,14 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsive - Mobile First_
-- [x] 6-6: _[Project - Trybewarts]()_
+- [x] 6-6: _[Project - Trybewarts](https://rafaelcunhas.github.io/project-trybewarts/)_
 
 ##### Block 7: JavaScript ES6 & Unit Tests
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Unit Tests with JavaScript_
-- [x] 7-4: _[Project - JavaScript Unit Tests]()_
+- [x] 7-4: _[Project - JavaScript Unit Tests](https://github.com/RafaelCunhaS/RafaelCunhaS.github.io/tree/master/project-js-unit-tests)_
 
 ##### Block 8: JavaScript ES6
 
@@ -67,7 +67,7 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
-- [x] 8-5: _[Project - Zoo functions]()_
+- [x] 8-5: _[Project - Zoo functions](https://github.com/RafaelCunhaS/RafaelCunhaS.github.io/tree/master/project-zoo-functions)_
 
 ##### Block 9: Asynchronicity & Callbacks
 
@@ -82,7 +82,7 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 
 - [x] 10-1: _'Hello, world!' on React!_
 - [x] 10-2: _React Components_
-- [x] 10-3: _[Project - Solar System]()_
+- [x] 10-3: _[Project - Solar System](https://single-page-ss.netlify.app/)_
 
 ##### Block 11: React
 
