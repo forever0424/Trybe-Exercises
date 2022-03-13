@@ -119,14 +119,14 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 
 ##### Block 16: React Group Project
 
-- [x] 16-1: _[Project - Trivia Game]()_
+- [x] 16-1: _[Project - Trivia Game](https://trivia-redux-app.netlify.app/)_
 
 ##### Block 17: React & Context API
 
 - [x] 17-1: _Context API of React_
 - [x] 17-2: _React Hooks - useState & useContext_
 - [x] 17-3: _React Hooks - useEffect & customized Hooks_
-- [x] 17-4: _[Project - StarWars Datatable with Context API and Hooks]()_
+- [x] 17-4: _[Project - StarWars Datatable with Context API and Hooks](https://planets-filters.netlify.app/)_
 
 ##### Block 18: Front-end Final Project
 
