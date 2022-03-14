@@ -39,10 +39,10 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 - [x] 5-2: _JavaScript - Working with elements_
 - [x] 5-3: _JavaScript - Events_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _[Project - Meme Generator]()_
+- [x] 5-5: _[Project - Meme Generator](https://rafaelcunhas.github.io/project-meme-generator/)_
 - [x] 5-6: _[Project - Pixels Art](https://rafaelcunhas.github.io/project-pixels-art/)_
 - [x] 5-7: _[Project - To do List]()_
-- [x] 5-7: _[Project - Color Guess]()_
+- [x] 5-7: _[Project - Color Guess](https://rafaelcunhas.github.io/project-color-guess/)_
 - [x] 5-7: _[Project - Mysterious letter](https://rafaelcunhas.github.io/project-mistery-letter/)_
 
 ##### Block 6: HTML & CSS Advanced
