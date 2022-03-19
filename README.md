@@ -74,7 +74,7 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 - [x] 9-1: _JavaScript Asynchronous and Callbacks_
 - [x] 9-2: _JavaScript Promises_
 - [x] 9-3: _Jest - Asynchronous Tests_
-- [x] 9-4: _[Project - Shopping Cart]()_
+- [x] 9-4: _[Project - Shopping Cart](https://rafaelcunhas.github.io/project-shopping-cart/)_
 
 ## Front-end Development :white_check_mark:
 
