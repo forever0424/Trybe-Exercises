@@ -76,7 +76,7 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 - [x] 9-3: _Jest - Asynchronous Tests_
 - [x] 9-4: _[Project - Shopping Cart](https://rafaelcunhas.github.io/project-shopping-cart/)_
 
-## Front-end Development :white_check_mark:
+## Front-end Development ✔️
 
 ##### Block 10: Introduction - React
 
@@ -106,7 +106,7 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 - [x] 14-1: _RTL - First steps_
 - [x] 14-2: _RTL - Mocks and Inputs_
 - [x] 14-3: _RTL - Testing React Router_
-- [x] 14-4: _[Project - Tests in React]()_
+- [x] 14-4: _[Project - React Testing Library](https://github.com/RafaelCunhaS/Project-RTL)_
 
 ##### Block 15: Managing state with Redux
 
@@ -130,16 +130,16 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 
 ##### Block 18: Front-end Final Project
 
-- [ ] 18-1: _[Project - Recipes App]()_
+- [x] 18-1: _[Project - Recipes App]()_
 
-## Back-end Development :hourglass_flowing_sand:
+## Back-end Development :white_check_mark:
 
 ##### Block 19: Introduction - Back-end
 
-- [ ] 19-1: _Docker - Utilizing Containers_
-- [ ] 19-2: _Manipulation and Creation of images on Docker_
-- [ ] 19-3: _Orchestrating Containers with Docker Compose_
-- [ ] 19-4: _[Project - Docker Todo-List]()_
+- [x] 19-1: _Docker - Utilizing Containers_
+- [x] 19-2: _Manipulation and Creation of images on Docker_
+- [x] 19-3: _Orchestrating Containers with Docker Compose_
+- [x] 19-4: _[Project - Docker Todo-List]()_
 
 ##### Block 20: Introduction to SQL
 
