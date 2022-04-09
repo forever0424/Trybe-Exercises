@@ -139,7 +139,7 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 - [x] 19-1: _Docker - Utilizing Containers_
 - [x] 19-2: _Manipulation and Creation of images on Docker_
 - [x] 19-3: _Orchestrating Containers with Docker Compose_
-- [x] 19-4: _Project - Docker Todo-List_
+- [x] 19-4: _[Project - Docker Todo-List](https://github.com/rafaelcunhas/Project-Docker-TodoList)_
 
 ##### Block 20: Introduction to SQL
 
