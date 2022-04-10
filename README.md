@@ -147,7 +147,7 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 - [ ] 20-2: _Finding data in a database_
 - [ ] 20-3: _Filtering data specifically_
 - [ ] 20-4: _Manipulating Tables_
-- [ ] 20-5: _[Project - All for One]()_
+- [ ] 20-5: _[Project - All for One](https://github.com/rafaelcunhas/Project-All-For-One)_
 
 ##### Block 21: Functions SQL, JOINs and Normalization
 
