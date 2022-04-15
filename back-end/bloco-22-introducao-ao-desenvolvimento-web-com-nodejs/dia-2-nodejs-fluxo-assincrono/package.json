@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "script1": "node script1.js",
+    "script2": "node script2.js"
+  }
+}
