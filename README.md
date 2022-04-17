@@ -143,18 +143,18 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 
 ##### Block 20: Introduction to SQL
 
-- [ ] 20-1: _SQL Database_
-- [ ] 20-2: _Finding data in a database_
-- [ ] 20-3: _Filtering data specifically_
-- [ ] 20-4: _Manipulating Tables_
-- [ ] 20-5: _[Project - All for One](https://github.com/rafaelcunhas/Project-All-For-One)_
+- [x] 20-1: _SQL Database_
+- [x] 20-2: _Finding data in a database_
+- [x] 20-3: _Filtering data specifically_
+- [x] 20-4: _Manipulating Tables_
+- [x] 20-5: _[Project - All for One](https://github.com/rafaelcunhas/Project-All-For-One)_
 
 ##### Block 21: Functions SQL, JOINs and Normalization
 
-- [ ] 21-1: _Most used functions on SQL_
-- [ ] 21-2: _Uncomplicating JOINs_
-- [ ] 21-2: _Transforming ideas into a database model_
-- [ ] 21-3: _[Project - One for All]()_
+- [x] 21-1: _Most used functions on SQL_
+- [x] 21-2: _Uncomplicating JOINs_
+- [x] 21-2: _Transforming ideas into a database model_
+- [x] 21-3: _[Project - One for All](https://github.com/RafaelCunhaS/Project-One-For-All)_
 
 ##### Block 25: Introduction to Web Development with NodeJS
 
