@@ -1,6 +1,6 @@
 # Trybe
 
-This repository contains all activities of learning developed by _[Rafael Santos](https://www.linkedin.com/in/rafael-cunha-santos/)_ while studying at [Trybe](https://www.betrybe.com/) :rocket:
+This repository contains all activities of learning developed by _[Rafael Santos](https://www.linkedin.com/in/rafaelcunhas/)_ while studying at [Trybe](https://www.betrybe.com/) :rocket:
 
 The course counts with more than 1500 hours of online e presencial classes, addresses introduction to the web development, front-end, back-end, computer science, agile methodologies and soft skills.
 
