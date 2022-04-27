@@ -158,12 +158,12 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 
 ##### Block 25: Introduction to Web Development with NodeJS
 
-- [ ] 25-1: _Intro - NodeJS_
-- [ ] 25-2: _NodeJS - Asynchronous Flux_
-- [ ] 25-3: _Mocha, Chai, Sinon - Back-end Tests with NodeJS_
-- [ ] 25-4: _Express - HTTP with NodeJS_
-- [ ] 25-5: _Express - Middlewares_
-- [ ] 25-6: _[Project - Talker Manager]()_
+- [x] 25-1: _Intro - NodeJS_
+- [x] 25-2: _NodeJS - Asynchronous Flux_
+- [x] 25-3: _Mocha, Chai, Sinon - Back-end Tests with NodeJS_
+- [x] 25-4: _Express - HTTP with NodeJS_
+- [x] 25-5: _Express - Middlewares_
+- [x] 25-6: _[Project - Talker Manager](https://github.com/RafaelCunhaS/Project-Talker-Manager)_
 
 ##### Block 23: Service Layer & Rest and Restful Architectures
 
