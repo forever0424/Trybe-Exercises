@@ -167,20 +167,20 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 
 ##### Block 23: Service Layer & Rest and Restful Architectures
 
-- [ ] 23-1: _Intro - Software Architecture_
-- [ ] 23-2: _Software Architecture - Model layer_
-- [ ] 23-3: _Software Architecture - Controller and Service layer_
-- [ ] 23-4: _Web Architecture - Rest & Restful_
-- [ ] 23-3: _Software Architecture - Testing the layers_
-- [ ] 23-4: _[Project - Store Manager]()_
+- [x] 23-1: _Intro - Software Architecture_
+- [x] 23-2: _Software Architecture - Model layer_
+- [x] 23-3: _Software Architecture - Controller and Service layer_
+- [x] 23-4: _Web Architecture - Rest & Restful_
+- [x] 23-3: _Software Architecture - Testing the layers_
+- [x] 23-4: _[Project - Store Manager](https://github.com/RafaelCunhaS/Project-Store-Manager)_
 
 ##### Block 24: NodeJS - ORM & Authentication
 
-- [ ] 24-1: _ORM - Application interface with database_
-- [ ] 24-2: _ORM - Associations_
-- [ ] 24-3: _JWT - (JSON Web Token)_
-- [ ] 24-4: _Testing APIs with integration tests_
-- [ ] 24-5: _[Project - Blogs API]()_
+- [x] 24-1: _ORM - Application interface with database_
+- [x] 24-2: _ORM - Associations_
+- [x] 24-3: _JWT - (JSON Web Token)_
+- [x] 24-4: _Testing APIs with integration tests_
+- [x] 24-5: _[Project - Blogs API](https://github.com/RafaelCunhaS/Project-Blogs-API)_
 
 ##### Block 25: Deployment
 
