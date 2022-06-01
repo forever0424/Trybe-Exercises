@@ -130,7 +130,7 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 
 ##### Block 18: Front-end Final Project
 
-- [x] 18-1: _[Project - Recipes App]()_
+- [x] 18-1: _[Project - Recipes App](https://github.com/RafaelCunhaS/Project-Recipes-App/blob/main/README.md)_
 
 ## Back-end Development :white_check_mark:
 
