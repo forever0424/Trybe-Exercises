@@ -184,9 +184,9 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 
 ##### Block 25: Deployment
 
-- [ ] 25-1: _Infrastructure - Deploy with Heroku_
-- [ ] 25-2: _Deploy Docker & Heroku_
-- [ ] 25-3: _[Project - Stranger Things]()_
+- [x] 25-1: _Infrastructure - Deploy with Heroku_
+- [x] 25-2: _Deploy Docker & Heroku_
+- [x] 25-3: _[Project - Stranger Things](https://github.com/RafaelCunhaS/Project-Stranger-Things)_
 
 ##### Block 26: TypeScript
 
