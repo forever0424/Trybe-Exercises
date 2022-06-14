@@ -190,10 +190,10 @@ The course counts with more than 1500 hours of online e presencial classes, addr
 
 ##### Block 26: TypeScript
 
-- [ ] 26-1: _Introduction to TypeScript_
-- [ ] 26-2: _Static Typing & Generics_
-- [ ] 26-3: _Express with TypeScript_
-- [ ] 26-4: _[Project - Trybe Smith]()_
+- [x] 26-1: _Introduction to TypeScript_
+- [x] 26-2: _Static Typing & Generics_
+- [x] 26-3: _Express with TypeScript_
+- [x] 26-4: _[Project - Trybe Smith](https://github.com/RafaelCunhaS/Project-TypeSmith)_
 
 ##### Block 27: Object-Oriented Programming (OOP) & SOLID
 
