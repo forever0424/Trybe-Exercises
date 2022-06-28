@@ -197,12 +197,12 @@ The course has more than 1500 hours of online and presencial classes and its sub
 
 ##### Block 27: Object-Oriented Programming (OOP) & SOLID
 
-- [ ] 27-1: _Introduction to OOP_
-- [ ] 27-2: _Inheritance and Interface_
-- [ ] 27-3: _Polimorfism_
-- [ ] 27-4: _SOLID - Introduction and principles S, O and D_
-- [ ] 27-5: _SOLID - Principles L and I_
-- [ ] 27-6: _[Project - Trybers and Dragons]()_
+- [x] 27-1: _Introduction to OOP_
+- [x] 27-2: _Inheritance and Interface_
+- [x] 27-3: _Polimorfism_
+- [x] 27-4: _SOLID - Introduction and principles S, O and D_
+- [x] 27-5: _SOLID - Principles L and I_
+- [x] 27-6: _[Project - Trybers and Dragons](https://github.com/RafaelCunhaS/Trybers-And-Dragons)_
 
 ##### Block 28: Project TFC
 
