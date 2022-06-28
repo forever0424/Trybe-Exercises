@@ -208,7 +208,7 @@ The course has more than 1500 hours of online and presencial classes and its sub
 
 - [ ] 28-1: _[Project - TFC (Trybe Football Club)]()_
 
-##### Block 29: MongoDB
+##### Block 29: Introduction to MongoDB
 
 - [ ] 29-1: _MongoDB - Introduction_
 - [ ] 29-2: _Filter Operators_
@@ -217,16 +217,60 @@ The course has more than 1500 hours of online and presencial classes and its sub
 - [ ] 29-5: _Complex Updates - Arrays_
 - [ ] 29-6: _[Project - Commerce]()_
 
-##### Block 30: Master Class - VPS, CI/CD
+##### Block 30: MongoDB with Node.js and OOP
 
-- [ ] 30-1: _[Project - Trybeer]()_
+- [ ] 30-1: _MongoDB and MSC archtecture_
+- [ ] 30-2: _MongoDB and OOP_
+- [ ] 30-3: _[Project - Car Shop]()_
 
 ##### Block 31: Back-end Final Project
 
 - [ ] 31-1: _[Project - Delivery App]()_
 
+##### Block 32: MasterClass - VPS, CI/CD
+
+- [ ] 32-1: _Day 1_
+- [ ] 32-2: _Day 2_
+
 ## Computer Science :hourglass_flowing_sand:
 
-## Bonus
+##### Block 33: Introduction to Python
 
-# [...]
+- [ ] 33-1: _Introduction to Python_
+- [ ] 33-2: _Data Input and Output_
+- [ ] 33-3: _Tests_
+- [ ] 33-4: _[Project - Job Insights]()_
+
+##### Block 34: Projects Patterns
+
+- [ ] 34-1: _OOP in Python_
+- [ ] 34-2: _Patterns - Iterator, Adapter, Strategy_
+- [ ] 34-3: _Patterns - Decorator, Observer, Factory_
+- [ ] 34-4: _[Project - Inventory Reports]()_
+
+##### Block 35: Networks and Data Scraping
+
+- [ ] 35-1: _Network Archtecture, Tools and Security_
+- [ ] 35-2: _Data Scraping_
+- [ ] 35-3: _[Project - Tech News]()_
+
+##### Block 36: Algorithms
+
+- [ ] 36-1: _Algorithms Complexity_
+- [ ] 36-2: _Recursiveness and Strategies to Problem Solving_
+- [ ] 36-3: _Sorting and Searching Algorithms_
+- [ ] 36-4: _[Project - Algorithms]()_
+
+##### Block 37: Data Structures I: Arrays, Lists, Queues and Stacks
+
+- [ ] 37-1: _Computers Archtectures_
+- [ ] 37-2: _Arrays_
+- [ ] 37-3: _Nodes and Linked Lists_
+- [ ] 37-4: _Queues and Stacks_
+- [ ] 37-5: _[Project - TING - Trybe Is Not Google]()_
+
+##### Block 38: Data Structures II: Hashmaps and Sets
+
+- [ ] 38-1: _Hashmap and Dict_
+- [ ] 38-2: _Set_
+- [ ] 38-3: _[Project - Restaurant Orders]()_
