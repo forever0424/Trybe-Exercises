@@ -206,7 +206,7 @@ The course has more than 1500 hours of online and presencial classes and its sub
 
 ##### Block 28: Project TFC
 
-- [ ] 28-1: _[Project - TFC (Trybe Football Club)]()_
+- [x] 28-1: _[Project - TFC (Trybe Football Club)](https://github.com/RafaelCunhaS/Trybe-Football-Club)_
 
 ##### Block 29: Introduction to MongoDB
 
