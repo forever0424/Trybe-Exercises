@@ -219,9 +219,9 @@ The course has more than 1500 hours of online and presencial classes and its sub
 
 ##### Block 30: MongoDB with Node.js and OOP
 
-- [ ] 30-1: _MongoDB and MSC archtecture_
-- [ ] 30-2: _MongoDB and OOP_
-- [ ] 30-3: _[Project - Car Shop]()_
+- [x] 30-1: _MongoDB and MSC archtecture_
+- [x] 30-2: _MongoDB and OOP_
+- [x] 30-3: _[Project - Car Shop](https://github.com/RafaelCunhaS/Project-Car-Shop)_
 
 ##### Block 31: Back-end Final Project
 
