@@ -9,7 +9,19 @@ with open("pokemons.json") as file:
         if int(pokemon["national_number"]) <= 251
     ]
     random_pokemon = random.choice(pokemons)["name"]
-    number_of_tries = round(len(random_pokemon) * 0.6)
+    difficulty = input('''Escolha a dificuldade:
+    0 - Fácil
+    1 - Médio
+    2 - Difícil
+''')
+    if difficulty == '0':
+        number_of_tries = round(len(random_pokemon) * 0.7)
+    elif difficulty == '1':
+        number_of_tries = round(len(random_pokemon) * 0.5)
+    elif difficulty == '2':
+        number_of_tries = round(len(random_pokemon) * 0.3)
+    else:
+        number_of_tries = round(len(random_pokemon) * 0.5)
 
 
 hint = random_pokemon[0]
