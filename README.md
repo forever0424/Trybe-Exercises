@@ -132,7 +132,7 @@ The course has more than 1500 hours of online and presencial classes and its sub
 
 - [x] 18-1: _[Project - Recipes App](https://github.com/RafaelCunhaS/Project-Recipes-App)_
 
-## Back-end Development :white_check_mark:
+## Back-end Development ✔️
 
 ##### Block 19: Introduction - Back-end
 
@@ -225,20 +225,20 @@ The course has more than 1500 hours of online and presencial classes and its sub
 
 ##### Block 31: Back-end Final Project
 
-- [ ] 31-1: _[Project - Delivery App]()_
+- [x] 31-1: _[Project - Delivery App]()_
 
 ##### Block 32: MasterClass - VPS, CI/CD
 
-- [ ] 32-1: _Day 1_
-- [ ] 32-2: _Day 2_
+- [x] 32-1: _Day 1_
+- [x] 32-2: _Day 2_
 
-## Computer Science :hourglass_flowing_sand:
+## Computer Science :white_check_mark:
 
 ##### Block 33: Introduction to Python
 
-- [ ] 33-1: _Introduction to Python_
-- [ ] 33-2: _Data Input and Output_
-- [ ] 33-3: _Tests_
+- [x] 33-1: _Introduction to Python_
+- [x] 33-2: _Data Input and Output_
+- [x] 33-3: _Tests_
 - [ ] 33-4: _[Project - Job Insights]()_
 
 ##### Block 34: Projects Patterns
