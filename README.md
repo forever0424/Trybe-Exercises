@@ -239,14 +239,14 @@ The course has more than 1500 hours of online and presencial classes and its sub
 - [x] 33-1: _Introduction to Python_
 - [x] 33-2: _Data Input and Output_
 - [x] 33-3: _Tests_
-- [ ] 33-4: _[Project - Job Insights]()_
+- [x] 33-4: _[Project - Job Insights](https://github.com/RafaelCunhaS/Project-Job-Insights)_
 
 ##### Block 34: Projects Patterns
 
-- [ ] 34-1: _OOP in Python_
-- [ ] 34-2: _Patterns - Iterator, Adapter, Strategy_
-- [ ] 34-3: _Patterns - Decorator, Observer, Factory_
-- [ ] 34-4: _[Project - Inventory Reports]()_
+- [x] 34-1: _OOP in Python_
+- [x] 34-2: _Patterns - Iterator, Adapter, Strategy_
+- [x] 34-3: _Patterns - Decorator, Observer, Factory_
+- [x] 34-4: _[Project - Inventory Reports](https://github.com/RafaelCunhaS/Project-Inventory-Reports)_
 
 ##### Block 35: Networks and Data Scraping
 
