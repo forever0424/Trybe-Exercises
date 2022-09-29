@@ -250,9 +250,10 @@ The course has more than 1500 hours of online and presencial classes and its sub
 
 ##### Block 35: Networks and Data Scraping
 
-- [ ] 35-1: _Network Archtecture, Tools and Security_
-- [ ] 35-2: _Data Scraping_
-- [ ] 35-3: _[Project - Tech News]()_
+- [x] 35-1: _Network Archtecture, Tools and Security_
+- [x] 35-2: _Data Scraping_
+- [x] 35-3: _Other Web Scraping Tools_
+- [x] 35-4: _[Project - Tech News](https://github.com/RafaelCunhaS/Project-Tech-News)_
 
 ##### Block 36: Algorithms
 
