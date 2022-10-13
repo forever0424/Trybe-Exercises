@@ -257,10 +257,10 @@ The course has more than 1500 hours of online and presencial classes and its sub
 
 ##### Block 36: Algorithms
 
-- [ ] 36-1: _Algorithms Complexity_
-- [ ] 36-2: _Recursiveness and Strategies to Problem Solving_
-- [ ] 36-3: _Sorting and Searching Algorithms_
-- [ ] 36-4: _[Project - Algorithms]()_
+- [x] 36-1: _Algorithms Complexity_
+- [x] 36-2: _Recursiveness and Strategies to Problem Solving_
+- [x] 36-3: _Sorting and Searching Algorithms_
+- [x] 36-4: _Project - Algorithms_
 
 ##### Block 37: Data Structures I: Arrays, Lists, Queues and Stacks
 
