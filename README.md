@@ -264,14 +264,14 @@ The course has more than 1500 hours of online and presencial classes and its sub
 
 ##### Block 37: Data Structures I: Arrays, Lists, Queues and Stacks
 
-- [ ] 37-1: _Computers Archtectures_
-- [ ] 37-2: _Arrays_
-- [ ] 37-3: _Nodes and Linked Lists_
-- [ ] 37-4: _Queues and Stacks_
-- [ ] 37-5: _[Project - TING - Trybe Is Not Google]()_
+- [x] 37-1: _Computers Archtectures_
+- [x] 37-2: _Arrays_
+- [x] 37-3: _Nodes and Linked Lists_
+- [x] 37-4: _Queues and Stacks_
+- [x] 37-5: _Project - TING - Trybe Is Not Google_
 
 ##### Block 38: Data Structures II: Hashmaps and Sets
 
-- [ ] 38-1: _Hashmap and Dict_
-- [ ] 38-2: _Set_
-- [ ] 38-3: _[Project - Restaurant Orders]()_
+- [x] 38-1: _Hashmap and Dict_
+- [x] 38-2: _Set_
+- [x] 38-3: _Project - Restaurant Orders_
