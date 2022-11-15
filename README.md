@@ -232,7 +232,7 @@ The course has more than 1500 hours of online and presencial classes and its sub
 - [x] 32-1: _Day 1_
 - [x] 32-2: _Day 2_
 
-## Computer Science :white_check_mark:
+## Computer Science :heavy_check_mark:
 
 ##### Block 33: Introduction to Python
 
