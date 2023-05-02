@@ -4,7 +4,6 @@ This repository contains all activities of learning developed by _[Rafael Santos
 
 The course has more than 1500 hours of online and presencial classes and its subject grid addresses _Introduction to the web development_, _Front-end_, _Back-end_, _Computer Science_, _Agile methodologies_ and _Soft skills_.
 
-
 ## Fundamentals of Web Development :heavy_check_mark:
 
 ##### Block 1: Introduction - Unix & Shell
